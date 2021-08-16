@@ -1,0 +1,187 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "a23a1e0f3f84483983a9f751e2b137f8"
+  OwnerAccountId: "901b7628983c4c8db4282f24afeda57a"
+  OwnerName: "Buckmonster"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 31650451025705456
+  value: 15903195763907178499
+}
+AssetIdsOriginalToNew {
+  key: 802662371139642258
+  value: 5267861926426776422
+}
+AssetIdsOriginalToNew {
+  key: 1452060259475249835
+  value: 15266579159741259308
+}
+AssetIdsOriginalToNew {
+  key: 2773263720070698009
+  value: 16754457641714151794
+}
+AssetIdsOriginalToNew {
+  key: 3325643244311651479
+  value: 4640183215116716293
+}
+AssetIdsOriginalToNew {
+  key: 4108123203944856180
+  value: 530092115602080325
+}
+AssetIdsOriginalToNew {
+  key: 4458938309585607910
+  value: 15436433965403075792
+}
+AssetIdsOriginalToNew {
+  key: 4685988691808682848
+  value: 6716265490310942146
+}
+AssetIdsOriginalToNew {
+  key: 5535597206985560171
+  value: 9777599783174205428
+}
+AssetIdsOriginalToNew {
+  key: 6119744090351866878
+  value: 9366565771037840300
+}
+AssetIdsOriginalToNew {
+  key: 6261641378857855418
+  value: 8928555795338038284
+}
+AssetIdsOriginalToNew {
+  key: 6443410125215675832
+  value: 716634173078864108
+}
+AssetIdsOriginalToNew {
+  key: 6621896085423895319
+  value: 11927705464970534466
+}
+AssetIdsOriginalToNew {
+  key: 6768605732041380072
+  value: 12818393009410169683
+}
+AssetIdsOriginalToNew {
+  key: 7128715975559941298
+  value: 8619411691535558857
+}
+AssetIdsOriginalToNew {
+  key: 7129683358896656075
+  value: 7481202108474107937
+}
+AssetIdsOriginalToNew {
+  key: 7736063202524069589
+  value: 14132389514977106452
+}
+AssetIdsOriginalToNew {
+  key: 7862147649641782366
+  value: 12401190984772632301
+}
+AssetIdsOriginalToNew {
+  key: 8395839538642908636
+  value: 14243378799617050833
+}
+AssetIdsOriginalToNew {
+  key: 8660650714955523010
+  value: 501868120442442417
+}
+AssetIdsOriginalToNew {
+  key: 8997203456499767976
+  value: 11377747061572324452
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 11226911940057116380
+}
+AssetIdsOriginalToNew {
+  key: 10164015379811552877
+  value: 1386693806607094658
+}
+AssetIdsOriginalToNew {
+  key: 10182969575435328052
+  value: 14576989372602954007
+}
+AssetIdsOriginalToNew {
+  key: 10383933735817337523
+  value: 15184760147269850781
+}
+AssetIdsOriginalToNew {
+  key: 10470424565904250692
+  value: 8100190052917775221
+}
+AssetIdsOriginalToNew {
+  key: 10716040477115217443
+  value: 16757161334988792584
+}
+AssetIdsOriginalToNew {
+  key: 11922594255482653466
+  value: 7202442342469222756
+}
+AssetIdsOriginalToNew {
+  key: 12261521754195908329
+  value: 7941547101393965246
+}
+AssetIdsOriginalToNew {
+  key: 12398732629407137703
+  value: 9106474391777573047
+}
+AssetIdsOriginalToNew {
+  key: 12491655515021378887
+  value: 10508486089398861138
+}
+AssetIdsOriginalToNew {
+  key: 12579093712655687353
+  value: 11114502788250719069
+}
+AssetIdsOriginalToNew {
+  key: 13217008580596385835
+  value: 18421333447748390823
+}
+AssetIdsOriginalToNew {
+  key: 13704223971292745439
+  value: 9344336389783052801
+}
+AssetIdsOriginalToNew {
+  key: 13866541763018299709
+  value: 86717710089330066
+}
+AssetIdsOriginalToNew {
+  key: 13886125184704461536
+  value: 11957421029046745157
+}
+AssetIdsOriginalToNew {
+  key: 14156010982424257760
+  value: 5406110142096992519
+}
+AssetIdsOriginalToNew {
+  key: 14634721785683285891
+  value: 14342124842696986472
+}
+AssetIdsOriginalToNew {
+  key: 16003076340227444014
+  value: 9389240909297632498
+}
+AssetIdsOriginalToNew {
+  key: 16048095019499733635
+  value: 10310307303794643101
+}
+AssetIdsOriginalToNew {
+  key: 16468405472668888012
+  value: 6290843233554147673
+}
+AssetIdsOriginalToNew {
+  key: 16539775098505320101
+  value: 2970787697124886782
+}
+AssetIdsOriginalToNew {
+  key: 17889302052579016489
+  value: 321748140435098665
+}
+AssetIdsOriginalToNew {
+  key: 18154052875178810801
+  value: 2736973576473774914
+}
+AssetIdsOriginalToNew {
+  key: 18289798659434546953
+  value: 14950203659498539662
+}

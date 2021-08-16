@@ -1,0 +1,187 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "a23a1e0f3f84483983a9f751e2b137f8"
+  OwnerAccountId: "901b7628983c4c8db4282f24afeda57a"
+  OwnerName: "Buckmonster"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 31650451025705456
+  value: 5750801842908736361
+}
+AssetIdsOriginalToNew {
+  key: 802662371139642258
+  value: 9348981805869841132
+}
+AssetIdsOriginalToNew {
+  key: 1452060259475249835
+  value: 120718532868936745
+}
+AssetIdsOriginalToNew {
+  key: 2773263720070698009
+  value: 17478449644682269163
+}
+AssetIdsOriginalToNew {
+  key: 3325643244311651479
+  value: 8719240033379312055
+}
+AssetIdsOriginalToNew {
+  key: 4108123203944856180
+  value: 17393275800662158925
+}
+AssetIdsOriginalToNew {
+  key: 4458938309585607910
+  value: 12872194225163005010
+}
+AssetIdsOriginalToNew {
+  key: 4685988691808682848
+  value: 14844188408154561283
+}
+AssetIdsOriginalToNew {
+  key: 5535597206985560171
+  value: 4647234308986649899
+}
+AssetIdsOriginalToNew {
+  key: 6119744090351866878
+  value: 1458295179930742763
+}
+AssetIdsOriginalToNew {
+  key: 6261641378857855418
+  value: 18377326704762730366
+}
+AssetIdsOriginalToNew {
+  key: 6443410125215675832
+  value: 17784408334343279242
+}
+AssetIdsOriginalToNew {
+  key: 6621896085423895319
+  value: 9370463736631109710
+}
+AssetIdsOriginalToNew {
+  key: 6768605732041380072
+  value: 605217914685455251
+}
+AssetIdsOriginalToNew {
+  key: 7128715975559941298
+  value: 2646879801537987722
+}
+AssetIdsOriginalToNew {
+  key: 7129683358896656075
+  value: 5215977577558451329
+}
+AssetIdsOriginalToNew {
+  key: 7736063202524069589
+  value: 12943631802445766408
+}
+AssetIdsOriginalToNew {
+  key: 7862147649641782366
+  value: 8171355192120199254
+}
+AssetIdsOriginalToNew {
+  key: 8395839538642908636
+  value: 16653796849398730401
+}
+AssetIdsOriginalToNew {
+  key: 8660650714955523010
+  value: 728869750914157563
+}
+AssetIdsOriginalToNew {
+  key: 8997203456499767976
+  value: 17709783869833863231
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 12924019103496951060
+}
+AssetIdsOriginalToNew {
+  key: 10164015379811552877
+  value: 11026637591415619272
+}
+AssetIdsOriginalToNew {
+  key: 10182969575435328052
+  value: 13606811821949613336
+}
+AssetIdsOriginalToNew {
+  key: 10383933735817337523
+  value: 8275896142805732695
+}
+AssetIdsOriginalToNew {
+  key: 10470424565904250692
+  value: 9720437552798152086
+}
+AssetIdsOriginalToNew {
+  key: 10716040477115217443
+  value: 1678517701352203661
+}
+AssetIdsOriginalToNew {
+  key: 11922594255482653466
+  value: 16567111994497648854
+}
+AssetIdsOriginalToNew {
+  key: 12261521754195908329
+  value: 11423574142655067893
+}
+AssetIdsOriginalToNew {
+  key: 12398732629407137703
+  value: 15630932511447019420
+}
+AssetIdsOriginalToNew {
+  key: 12491655515021378887
+  value: 10933487373116737919
+}
+AssetIdsOriginalToNew {
+  key: 12579093712655687353
+  value: 4824607356679697780
+}
+AssetIdsOriginalToNew {
+  key: 13217008580596385835
+  value: 6944961979002305529
+}
+AssetIdsOriginalToNew {
+  key: 13704223971292745439
+  value: 9741090688075303558
+}
+AssetIdsOriginalToNew {
+  key: 13866541763018299709
+  value: 3531074042832231848
+}
+AssetIdsOriginalToNew {
+  key: 13886125184704461536
+  value: 2466878316451219532
+}
+AssetIdsOriginalToNew {
+  key: 14156010982424257760
+  value: 13468615369158526352
+}
+AssetIdsOriginalToNew {
+  key: 14634721785683285891
+  value: 1289507442871507709
+}
+AssetIdsOriginalToNew {
+  key: 16003076340227444014
+  value: 6828851385975158735
+}
+AssetIdsOriginalToNew {
+  key: 16048095019499733635
+  value: 3367759736811651308
+}
+AssetIdsOriginalToNew {
+  key: 16468405472668888012
+  value: 13909708404940657544
+}
+AssetIdsOriginalToNew {
+  key: 16539775098505320101
+  value: 10268230947522156890
+}
+AssetIdsOriginalToNew {
+  key: 17889302052579016489
+  value: 7364905560704617366
+}
+AssetIdsOriginalToNew {
+  key: 18154052875178810801
+  value: 13294575370535136369
+}
+AssetIdsOriginalToNew {
+  key: 18289798659434546953
+  value: 10678611582770506747
+}
